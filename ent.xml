@@ -11,5 +11,7 @@
         <true/>
         <key>run-unsigned-code</key>
         <true/>
+        <key>platform-application</key>
+        <true/>
 </dict>
 </plist>
